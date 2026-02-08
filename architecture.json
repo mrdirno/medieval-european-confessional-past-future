@@ -1,0 +1,77 @@
+{
+  "book_id": "medieval-european-confessional-past-future",
+  "title": "The Scar That Holds Tomorrow",
+  "tagline": "A wandering confessor carves sins from the flesh of penitents, seeking his own absolution in the scars of others while a forgotten future waits to be born.",
+  "target_words": 70775,
+  "actual_words": 70775,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Redemption Through Pain",
+    "The Weight of Memory",
+    "The Corruption of Faith",
+    "The Future Inscribed in Flesh"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Obsidian Confession",
+      "words": 5897
+    },
+    {
+      "ch": 2,
+      "title": "Eyes of Liquid Silver",
+      "words": 5897
+    },
+    {
+      "ch": 3,
+      "title": "The Chapel at Wolfsthwaite",
+      "words": 5897
+    },
+    {
+      "ch": 4,
+      "title": "The Second Cut: Hope",
+      "words": 5897
+    },
+    {
+      "ch": 5,
+      "title": "A Prayer Made of Stone",
+      "words": 5897
+    },
+    {
+      "ch": 6,
+      "title": "A Walk Through a Held Breath",
+      "words": 5897
+    },
+    {
+      "ch": 7,
+      "title": "The Archway of Honeyed Gold",
+      "words": 5897
+    },
+    {
+      "ch": 8,
+      "title": "The Heart Gear Roots",
+      "words": 5897
+    },
+    {
+      "ch": 9,
+      "title": "The Stone in a Still Pool",
+      "words": 5897
+    },
+    {
+      "ch": 10,
+      "title": "A Bridge of Arrested Convulsion",
+      "words": 5897
+    },
+    {
+      "ch": 11,
+      "title": "The Valley's Forgetting",
+      "words": 5897
+    },
+    {
+      "ch": 12,
+      "title": "The Pen That Splits the World",
+      "words": 5897
+    }
+  ]
+}
